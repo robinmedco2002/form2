@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "reactfield"
+    }
+  },
+  "defaultProject": "reactfield",
+  "cli": {
+    "analytics": "b4da46a3-74e5-44d7-9c71-fd0b152642b8"
+  }
 }
